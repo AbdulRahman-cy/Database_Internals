@@ -11,7 +11,7 @@ Made by **AbdulRahman Tamer**.
 | # | Topic | Status |
 |---|-------|--------|
 | 1 | Query Cost: pages, disk I/O, and the heap | Released |
-| 2 | Indexes: B+ trees | Planned |
+| 2 | Indexes: B+ trees | Released |
 | 3 | Index scans, index-only scans, and bitmap scans | Planned |
 | 4 | Query optimization: how the planner picks a plan | Planned |
 | 5 | Transactions and ACID | Planned |
